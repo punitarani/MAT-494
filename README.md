@@ -5,11 +5,11 @@
 ___________
 ### 1. Linear Algebra
 
-1.1. Elements of Linear Algebra
+1.2. Elements of Linear Algebra
 
-1.2. Linear Regression
+1.3. Linear Regression
 
-1.3. Principal Component Analysis
+1.4. Principal Component Analysis
 
 
 ### 2. Probability
