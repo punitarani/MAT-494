@@ -7,6 +7,10 @@ ___________
 
 1.2. Elements of Linear Algebra
 
+* Orthogonality
+* Gram-Schmidt Process
+* Eigenvalues and Eigenvectors
+
 1.3. Linear Regression
 
 1.4. Principal Component Analysis
