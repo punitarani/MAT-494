@@ -2,7 +2,7 @@
 ### Mathematical Methods in Data Science
 
 ## Contents
-___________
+
 ### 1. Linear Algebra
 
 1.2. Elements of Linear Algebra
