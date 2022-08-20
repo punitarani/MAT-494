@@ -12,6 +12,9 @@
 * Eigenvalues and Eigenvectors
 
 1.3. Linear Regression
+* QR Decomposition
+* Least Squares
+* Linear Regression
 
 1.4. Principal Component Analysis
 
