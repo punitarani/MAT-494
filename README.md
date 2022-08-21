@@ -23,7 +23,9 @@
 * Linear Regression
 
 1.4. Principal Component Analysis
-
+* Singular Value Decomposition
+* Low-Rank Matrix Approximations
+* Principal Component Analysis
 
 ### 2. Probability
 
