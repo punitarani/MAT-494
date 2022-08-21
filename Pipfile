@@ -10,6 +10,7 @@ matplotlib = "*"
 scipy = "*"
 plotly = "*"
 jupyter = "*"
+kaleido = "*"
 
 [dev-packages]
 
