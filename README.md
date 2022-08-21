@@ -1,6 +1,12 @@
 # MAT 494
 ### Mathematical Methods in Data Science
 
+**Instructor**: Professor Haiyan Wang
+
+**Section**: 96893 (Fall 2022)
+
+--------------------------------------------------
+
 ## Contents
 
 ### 1. Linear Algebra
