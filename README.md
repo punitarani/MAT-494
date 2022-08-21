@@ -21,6 +21,7 @@
 * QR Decomposition
 * Least Squares
 * Linear Regression
+* Gradient Descent
 
 1.4. Principal Component Analysis
 * Singular Value Decomposition
