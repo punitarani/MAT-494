@@ -30,6 +30,7 @@
 * Singular Value Decomposition
 * Low-Rank Matrix Approximations
 * Principal Component Analysis
+* **Image Compression**
 
 ### 2. Probability
 
