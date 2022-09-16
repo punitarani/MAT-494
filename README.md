@@ -1,5 +1,6 @@
 # MAT 494
-### Mathematical Methods in Data Science
+
+## Mathematical Methods in Data Science
 
 **Instructor**: Professor Haiyan Wang
 
@@ -18,12 +19,14 @@
 * Eigenvalues and Eigenvectors
 
 1.3. Linear Regression
+
 * QR Decomposition
 * Least Squares
 * Linear Regression
 * Gradient Descent
 
 1.4. Principal Component Analysis
+
 * Singular Value Decomposition
 * Low-Rank Matrix Approximations
 * Principal Component Analysis
