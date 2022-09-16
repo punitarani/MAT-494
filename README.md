@@ -33,6 +33,24 @@
 
 ### 2. Probability
 
+2.2. Probability Distribution
+
+* Probability Axioms
+* Conditional Probability
+* Discrete Random Variables
+* Continuous Random Variables
+
+2.3. Independent Variables and Random Samples
+
+* Joint Probability Distributions
+* Correlation and Dependence
+* Random Samples
+
+2.4. Maximum Likelihood Estimation
+
+* MLE for Random Samples
+* Linear Regression
+
 ### 3. Calculus and Optimization
 
 ### 4. Network Analysis
