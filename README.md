@@ -44,8 +44,9 @@
 2.3. Independent Variables and Random Samples
 
 * Joint Probability Distributions
-* Correlation and Dependence
 * Random Samples
+* Correlation and Covariance
+* Central Limit Theorem
 
 2.4. Maximum Likelihood Estimation
 
