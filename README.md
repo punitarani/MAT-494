@@ -55,4 +55,17 @@
 
 ### 3. Calculus and Optimization
 
+3.2. Continuity and Differentiation
+
+* Limits and Continuity
+* Derivatives
+  * Partial Derivatives
+  * Jacobian
+  * Chain Rule
+  * Directional Derivatives
+  * Gradient
+  * Hessian
+* Mean Value Theorem
+* Taylor's Theorem
+
 ### 4. Network Analysis
