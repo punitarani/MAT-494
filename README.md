@@ -68,4 +68,10 @@
 - Mean Value Theorem
 - Taylor's Theorem
 
+3.3 Unconstrained Optimization
+
+- Local and Global Minimizers
+- Convexity
+- Gradient Descent
+
 ### 4. Network Analysis
