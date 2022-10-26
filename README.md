@@ -76,6 +76,11 @@
 
 3.4 Logistic Regression
 
+- Logit Function
+- Sigmoid Function
+- Cross-Entropy Loss
+- Gradient Descent
+
 3.5 K-Means
 
 3.6 Support Vector Machines
