@@ -74,4 +74,17 @@
 - Convexity
 - Gradient Descent
 
+3.4 Logistic Regression
+
+3.5 K-Means
+
+3.6 Support Vector Machines
+
+3.7 Neural Networks
+
+- Mathematical Model
+- Activation Functions
+- Cost Functions
+- Backpropagation
+
 ### 4. Network Analysis
