@@ -83,6 +83,9 @@
 
 3.5 K-Means
 
+- Within-Cluster Sum of Squares (WCSS)
+- K-Means Algorithm
+
 3.6 Support Vector Machines
 
 3.7 Neural Networks
