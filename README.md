@@ -88,6 +88,11 @@
 
 3.6 Support Vector Machines
 
+- Hyperplane
+- Margin
+- Support Vectors
+- Loss Function
+
 3.7 Neural Networks
 
 - Mathematical Model
