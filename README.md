@@ -101,3 +101,8 @@
 - Backpropagation
 
 ### 4. Network Analysis
+
+4.1 Introduction
+
+- Graph Models
+- Laplacian Matrix
