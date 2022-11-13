@@ -106,3 +106,9 @@
 
 - Graph Models
 - Laplacian Matrix
+
+4.2 Spectral Graph Bipartitioning
+
+- Graph Partitioning
+- Raleigh Quotient
+- Balancing the Cut
